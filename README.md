@@ -8,9 +8,15 @@ Aspiring Ethical Hacker | Python Developer | Learning Cybersecurity & Penetratio
 - 📝 Passionate about sharing knowledge and open source contribution
 - 🌍 Location: **Riyadh, Saudi Arabia / Dhaka,Bangladesh**
 
-- 📫 How to reach me:
+- 📫 How to reach me:👇👇
+
  [Email: alamin.bd.dev@gmail.com]
- [Facebook I'd:https://www.facebook.com/share/1AtNk5p3iY/]
-[LinkedIn: www.linkedin.com/in/
-al-amin-bd-dev
+
+ [Facebook I'd:
+https://www.facebook.com/share/1AtNk5p3iY/]
+
+[LinkedIn: 
+www.linkedin.com/in/al-amin-bd-dev]
+
+
 - 🌱 I’m currently learning Ethical Hacking...
