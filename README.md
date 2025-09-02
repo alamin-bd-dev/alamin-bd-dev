@@ -18,5 +18,8 @@ https://www.facebook.com/share/1AtNk5p3iY/]
 [LinkedIn: 
 www.linkedin.com/in/al-amin-bd-dev]
 
+[Instagram:
+
+https://www.instagram.com/alamin_bd_dev?igsh=MTNxYnBpcmlpeWlsbA==]
 
 - 🌱 I’m currently learning Ethical Hacking...
