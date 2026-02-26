@@ -22,4 +22,4 @@ www.linkedin.com/in/al-amin-bd-dev]
 
 https://www.instagram.com/alamin_bd_dev?igsh=MTNxYnBpcmlpeWlsbA==]
 
-- 🌱 I’m currently learning Ethical Hacking...
+- 🌱 I’m currently learning Ethical Hacking and python 
