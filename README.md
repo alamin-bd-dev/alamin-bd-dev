@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Ethical+Hacker+in+Training+%F0%9F%94%90;Bug+Hunter+%F0%9F%90%9B;Python+Developer+%F0%9F%90%8D;Red+Team+Enthusiast+%F0%9F%9F%A5;Learning+%26+Growing+Every+Day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=al-amin-bd-dev&color=red&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=alamin-bd-dev&color=red&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -58,6 +58,8 @@ learning = {
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -78,15 +80,11 @@ learning = {
 
 ---
 
-## `$ cat github_stats.txt`
+## `$ cat github_streak.txt`
 
 <div align="center">
 
-![Al Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamin-bd-dev&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&border_color=ff0000&bg_color=0d0d0d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-bd-dev&layout=compact&theme=radical&title_color=ff0000&border_color=ff0000&bg_color=0d0d0d)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alamin-bd-dev&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=ff0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alamin-bd-dev&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=ff0000&background=0d0d0d)](https://github.com/alamin-bd-dev)
 
 </div>
 
@@ -98,7 +96,7 @@ learning = {
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Website / Portfolio** | [alamincyber.com](https://alamincyber.com) |
+| 🌐 **Website** | [My website](https://alamincyber.com) |
 | 📧 **Email** | [alamin.bd.dev@gmail.com](mailto:alamin.bd.dev@gmail.com) |
 | 💼 **LinkedIn** | [al-amin-bd-dev](https://www.linkedin.com/in/al-amin-bd-dev) |
 | 📘 **Facebook** | [Al Amin](https://www.facebook.com/share/1AtNk5p3iY/) |
@@ -128,7 +126,5 @@ learning = {
 > "The quieter you become, the more you are able to hear." — Kali Linux
 > Keep hacking. Keep learning. Stay ethical. 🔐
 ```
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
