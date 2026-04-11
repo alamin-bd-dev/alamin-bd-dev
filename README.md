@@ -82,11 +82,11 @@ learning = {
 
 <div align="center">
 
-![Al Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&border_color=ff0000&bg_color=0d0d0d)
+![Al Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamin-bd-dev&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&border_color=ff0000&bg_color=0d0d0d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&title_color=ff0000&border_color=ff0000&bg_color=0d0d0d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-bd-dev&layout=compact&theme=radical&title_color=ff0000&border_color=ff0000&bg_color=0d0d0d)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=ff0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alamin-bd-dev&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=ff0000)](https://git.io/streak-stats)
 
 </div>
 
