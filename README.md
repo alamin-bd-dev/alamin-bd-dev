@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
 ```
 
-# 👾 Al Amin
+# 👾 I'M Al Amin
 ### `> Aspiring Ethical Hacker | Bug Hunter | Red Teamer in Training`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Ethical+Hacker+in+Training+%F0%9F%94%90;Bug+Hunter+%F0%9F%90%9B;Python+Developer+%F0%9F%90%8D;Red+Team+Enthusiast+%F0%9F%9F%A5;Learning+%26+Growing+Every+Day+%F0%9F%9A%80)](https://git.io/typing-svg)
