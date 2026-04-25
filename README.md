@@ -96,7 +96,7 @@ learning = {
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Website** | [My website](https://alamincyber.com) |
+| 🌐 **Portfolio** | [My portfolio website](https://alamincyber.com) |
 | 📧 **Email** | [alamin.bd.dev@gmail.com](mailto:alamin.bd.dev@gmail.com) |
 | 💼 **LinkedIn** | [al-amin-bd-dev](https://www.linkedin.com/in/al-amin-bd-dev) |
 | 📘 **Facebook** | [Al Amin](https://www.facebook.com/share/1AtNk5p3iY/) |
