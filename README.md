@@ -97,10 +97,10 @@ learning = {
 | Platform | Link |
 |----------|------|
 | 🌐 **Portfolio** | [My portfolio website](https://alamincyber.com) |
-| 📧 **Email** | [alamin.bd.dev@gmail.com](mailto:alamin.bd.dev@gmail.com) |
-| 💼 **LinkedIn** | [al-amin-bd-dev](https://www.linkedin.com/in/alamincyber) |
+| 📧 **Email** | [Email](mailto:alamin.bd.dev@gmail.com) |
+| 💼 **LinkedIn** | [Al Amin](https://www.linkedin.com/in/alamincyber) |
 | 📘 **Facebook** | [Al Amin](https://www.facebook.com/alamincyber1) |
-| 📸 **Instagram** | [@alamin_bd_dev](https://www.instagram.com/alamincyber) |
+| 📸 **Instagram** | [Al Amin](https://www.instagram.com/alamincyber) |
 
 </div>
 
